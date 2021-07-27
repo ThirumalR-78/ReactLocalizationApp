@@ -17,22 +17,7 @@ export default {
     },
     {
       val: 'Help me translate',
-    },
-    {
-      val: 'Hope You are doing Well',
-    },
-    {
-      val: 'Nice to meet you',
-    },
-    {
-      val: 'Have a great day',
-    },
-    {
-      val: 'What a pleasant day',
-    },
-    {
-      val: 'Help me translate',
-    },
+    }
   ],
   tn: [
     {
